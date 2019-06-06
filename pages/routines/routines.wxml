@@ -1,0 +1,15 @@
+<text class="user-Weilcome">小泓定于6月4日晚,第一条</text>
+<view class='imagesize'>
+  <image class='in-image' src="./../image/1.jpg" ></image>
+</view>  
+<view class='imagesize'>
+   <image class='in-image' src="./../image/2.jpg" ></image>
+</view>  
+<text>\n</text>
+<text class="user-Weilcome">小泓定于6月4日晚，第二条</text>
+<view class='imagesize'>
+  <image class='in-image' src="./../image/3.jpg" ></image>
+</view>  
+<view class='imagesize'>
+   <image class='in-image' src="./../image/4.jpg" ></image>
+</view>  

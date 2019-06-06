@@ -1,0 +1,9 @@
+
+.imagesize{
+ display:flex;
+ justify-content: center
+}
+.imagesize image { 
+  width:800rpx;
+  height:500rpx;
+}
